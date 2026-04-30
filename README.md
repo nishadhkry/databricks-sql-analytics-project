@@ -13,14 +13,6 @@ It focuses on real-world data analysis scenarios to strengthen my skills in SQL,
 
 ---
 
-## 📂 Project Structure
-databricks-sql-analytics-project/
-│
-├── databricks_notebooks/
-├── screenshots/
-└── README.md
-
----
 
 ## 📌 Problems Solved
 
