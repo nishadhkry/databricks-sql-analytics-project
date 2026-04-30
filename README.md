@@ -28,19 +28,19 @@ It focuses on real-world data analysis scenarios to strengthen my skills in SQL,
 ## 📸 Query Results (Databricks Output)
 
 ### Daily Active Users1
-![DAU Result](screenshots/dau1.png)
+![DAU Result](Screenshots/dau1.png)
 
 ### Daily Active Users1
-![DAU Result](screenshots/dau2.png)
+![DAU Result](Screenshots/dau2.png)
 
 ### Funnel Analysis
-![Funnel Result](screenshots/funnelanalysis.png)
+![Funnel Result](Screenshots/funnelanalysis.png)
 
 ### Latest Transaction per User
-![Latest Transaction](screenshots/latest_transaction_per_user.png)
+![Latest Transaction](Screenshots/latest_transaction_per_user.png)
 
 ### Top Product per Category
-![Top Product](screenshots/top_product_per_category.png)
+![Top Product](Screenshots/top_product_per_category.png)
 
 ---
 
