@@ -1,36 +1,76 @@
-# Databricks SQL Analytics Project
+# 📊 Databricks SQL Analytics Project
 
-## About This Project
-This project contains SQL analytics practice problems solved using Databricks.
+## 🚀 About This Project
+This project showcases SQL-based analytics problems solved using Databricks.  
+It focuses on real-world data analysis scenarios to strengthen my skills in SQL, data analysis, and data engineering concepts.
 
-I created this project to improve my SQL, analytics, and data engineering skills.
+---
 
-## Tools Used
+## 🛠️ Tools & Technologies
 - Databricks
 - SQL
+- Apache Spark (Databricks environment)
 
+---
 
-## Files Included
+## 📂 Project Structure
+databricks-sql-analytics-project/
+│
+├── databricks_notebooks/
+├── screenshots/
+└── README.md
+
+---
+
+## 📌 Problems Solved
 
 | Notebook | Description |
 |---|---|
 | Daily_active_users.ipynb | Calculates daily active users |
-| Funnel_Analysis.ipynb | Analyzes user journey from view to cart to purchase |
+| Funnel_Analysis.ipynb | Analyzes user journey (view → cart → purchase) |
 | latest_transaction_per_user.ipynb | Finds the latest transaction for each user |
-| top_product_per_category.ipynb | Finds top product by category |
+| top_product_per_category.ipynb | Identifies top product per category |
 
-## Concepts Practiced
-- GROUP BY
-- COUNT
-- Window functions
-- ROW_NUMBER
-- Subqueries
-- Funnel analysis
-- Latest record per user
-- Top product per category
+---
 
-## What I Learned
-Through this project, I practiced how to solve real-world analytics problems using SQL in Databricks.
+## 📸 Query Results (Databricks Output)
 
-## About Me
-Hi, I am Nisha Adhikari. I am currently learning Data Engineering and building projects using SQL, Python, Databricks, and Apache Spark.
+### Daily Active Users1
+![DAU Result](screenshots/dau1.png)
+
+### Daily Active Users1
+![DAU Result](screenshots/dau2.png)
+
+### Funnel Analysis
+![Funnel Result](screenshots/funnelanalysis.png)
+
+### Latest Transaction per User
+![Latest Transaction](screenshots/latest_transaction_per_user.png)
+
+### Top Product per Category
+![Top Product](screenshots/top_product_per_category.png)
+
+---
+
+## 🧠 Concepts Practiced
+- GROUP BY and Aggregations  
+- COUNT and Filtering  
+- Window Functions (ROW_NUMBER)  
+- Subqueries  
+- Funnel Analysis  
+- Latest Record per User  
+- Top product Analysis  
+
+---
+
+## 🎯 What I Learned
+Through this project, I gained hands-on experience solving real-world analytics problems using SQL in Databricks.  
+I improved my understanding of query optimization, data aggregation, and analytical thinking.
+
+---
+
+## 👩‍💻 About Me
+Hi, I’m Nisha Adhikari 👋  
+I’m an aspiring Data Engineer currently learning SQL, Python, and data pipelines using Databricks and Apache Spark.
+
+---
